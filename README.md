@@ -34,7 +34,7 @@ A modern authentication system based on ASP.NET Core 9.0, integrating Windows He
 
 ### 1. Clone Repository
 ```dos command
-git clone <repository-url>
+git clone https://github.com/hankwu61/WindowsHelloAuth.git
 cd WindowsHelloAuth
 ```
 

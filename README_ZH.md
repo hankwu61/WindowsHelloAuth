@@ -34,7 +34,7 @@
 
 ### 1. 克隆項目
 ```dos command
-git clone <repository-url>
+git clone https://github.com/hankwu61/WindowsHelloAuth.git
 cd WindowsHelloAuth
 ```
 
